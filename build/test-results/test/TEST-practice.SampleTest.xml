@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-11T14:40:47" hostname="yamamotokouheinoMacBook-puro.local" time="0.029">
+  <properties/>
+  <testcase name="addTest()" classname="practice.SampleTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
