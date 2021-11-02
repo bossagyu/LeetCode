@@ -2,3 +2,5 @@ practice/SampleTest.java
  practice.SampleTest
 practice/AddTwoNumbersTest.java
  practice.AddTwoNumbersTest
+practice/LongestSubstringTest.java
+ practice.LongestSubstringTest
