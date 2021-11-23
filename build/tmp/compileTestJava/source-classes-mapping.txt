@@ -2,9 +2,13 @@ sandbox/StringPracticeTest.java
  sandbox.StringPracticeTest
 practice/LongestSubstringTest.java
  practice.LongestSubstringTest
-practice/SampleTest.java
- practice.SampleTest
-practice/AddTwoNumbersTest.java
- practice.AddTwoNumbersTest
 practice/LongestPalindromicSubstringTest.java
  practice.LongestPalindromicSubstringTest
+practice/AddTwoNumbersTest.java
+ practice.AddTwoNumbersTest
+practice/LongestPalindromicSubstringAnswerTest.java
+ practice.LongestPalindromicSubstringAnswerAnswerAnswerTest
+practice/SampleTest.java
+ practice.SampleTest
+practice/MedianOfTwoSortedArraysTest.java
+ practice.MedianOfTwoSortedArraysTest
