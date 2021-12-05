@@ -22,3 +22,5 @@ practice/ContainerWithMostWaterExTest.java
  practice.ContainerWithMostWaterExTest
 practice/IntegerToRomanTest.java
  practice.IntegerToRomanTest
+practice/RomanToIntegerTest.java
+ practice.RomanToIntegerTest
