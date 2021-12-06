@@ -24,3 +24,5 @@ practice/IntegerToRomanTest.java
  practice.IntegerToRomanTest
 practice/RomanToIntegerTest.java
  practice.RomanToIntegerTest
+practice/LongestCommonPrefixTest.java
+ practice.LongestCommonPrefixTest
