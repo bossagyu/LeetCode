@@ -26,3 +26,5 @@ practice/RomanToIntegerTest.java
  practice.RomanToIntegerTest
 practice/LongestCommonPrefixTest.java
  practice.LongestCommonPrefixTest
+practice/ThreeSumCalcTest.java
+ practice.ThreeSumCalcTest

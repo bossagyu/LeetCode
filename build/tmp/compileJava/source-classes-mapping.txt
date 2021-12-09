@@ -30,3 +30,5 @@ practice/RomanToInteger.java
  practice.RomanToInteger
 practice/LongestCommonPrefix.java
  practice.LongestCommonPrefix
+practice/ThreeSumCalc.java
+ practice.ThreeSumCalc
