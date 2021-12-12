@@ -32,3 +32,5 @@ practice/LongestCommonPrefix.java
  practice.LongestCommonPrefix
 practice/ThreeSumCalc.java
  practice.ThreeSumCalc
+practice/ThreeSumClosestCalc.java
+ practice.ThreeSumClosestCalc
