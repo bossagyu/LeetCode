@@ -36,3 +36,7 @@ practice/ThreeSumClosestCalc.java
  practice.ThreeSumClosestCalc
 practice/LetterCombinationsOfPhoneNumber.java
  practice.LetterCombinationsOfPhoneNumber
+practice/ForSums.java
+ practice.ForSums
+practice/ValidParentheses.java
+ practice.ValidParentheses

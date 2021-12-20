@@ -2,6 +2,8 @@ practice/ContainerWithMostWaterTest.java
  practice.ContainerWithMostWaterTest
 practice/LongestSubstringTest.java
  practice.LongestSubstringTest
+practice/LetterCombinationsOfPhoneNumberTest.java
+ practice.LetterCombinationsOfPhoneNumberTest
 practice/MedianOfTwoSortedArraysTest.java
  practice.MedianOfTwoSortedArraysTest
 practice/ContainerWithMostWaterExTest.java
@@ -10,6 +12,8 @@ practice/IntegerToRomanTest.java
  practice.IntegerToRomanTest
 practice/SampleTest.java
  practice.SampleTest
+practice/RomanToIntegerTest.java
+ practice.RomanToIntegerTest
 sandbox/StringPracticeTest.java
  sandbox.StringPracticeTest
 practice/LongestPalindromicSubstringTest.java
@@ -26,9 +30,7 @@ practice/LongestPalindromicSubstringAnswerTest.java
  practice.LongestPalindromicSubstringAnswerAnswerAnswerTest
 practice/ThreeSumCalcTest.java
  practice.ThreeSumCalcTest
-practice/RomanToIntegerTest.java
- practice.RomanToIntegerTest
 practice/ThreeSumClosestCalcTest.java
  practice.ThreeSumClosestCalcTest
-practice/LetterCombinationsOfPhoneNumberTest.java
- practice.LetterCombinationsOfPhoneNumberTest
+practice/ValidParenthesesTest.java
+ practice.ValidParenthesesTest
