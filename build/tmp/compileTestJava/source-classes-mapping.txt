@@ -12,8 +12,8 @@ practice/IntegerToRomanTest.java
  practice.IntegerToRomanTest
 practice/SampleTest.java
  practice.SampleTest
-practice/RomanToIntegerTest.java
- practice.RomanToIntegerTest
+practice/ValidParenthesesTest.java
+ practice.ValidParenthesesTest
 sandbox/StringPracticeTest.java
  sandbox.StringPracticeTest
 practice/LongestPalindromicSubstringTest.java
@@ -24,6 +24,8 @@ practice/PalindromeNumberTest.java
  practice.PalindromeNumberTest
 practice/AddTwoNumbersTest.java
  practice.AddTwoNumbersTest
+practice/RomanToIntegerTest.java
+ practice.RomanToIntegerTest
 practice/ZigzagConversionTest.java
  practice.ZigzagConversionTest
 practice/LongestPalindromicSubstringAnswerTest.java
@@ -32,5 +34,5 @@ practice/ThreeSumCalcTest.java
  practice.ThreeSumCalcTest
 practice/ThreeSumClosestCalcTest.java
  practice.ThreeSumClosestCalcTest
-practice/ValidParenthesesTest.java
- practice.ValidParenthesesTest
+practice/MergeTwoSortedListsTest.java
+ practice.MergeTwoSortedListsTest
