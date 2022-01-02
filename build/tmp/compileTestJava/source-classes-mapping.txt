@@ -36,3 +36,5 @@ practice/ThreeSumClosestCalcTest.java
  practice.ThreeSumClosestCalcTest
 practice/MergeTwoSortedListsTest.java
  practice.MergeTwoSortedListsTest
+practice/RemoveDuplicatesSortedArrayTest.java
+ practice.RemoveDuplicatesSortedArrayTest

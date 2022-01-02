@@ -42,3 +42,5 @@ practice/ValidParentheses.java
  practice.ValidParentheses
 practice/MergeTwoSortedLists.java
  practice.MergeTwoSortedLists
+practice/RemoveDuplicatesSortedArray.java
+ practice.RemoveDuplicatesSortedArray
