@@ -44,3 +44,5 @@ practice/MergeTwoSortedLists.java
  practice.MergeTwoSortedLists
 practice/RemoveDuplicatesSortedArray.java
  practice.RemoveDuplicatesSortedArray
+practice/RemoveElement.java
+ practice.RemoveElement

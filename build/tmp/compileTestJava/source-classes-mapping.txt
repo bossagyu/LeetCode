@@ -38,3 +38,5 @@ practice/MergeTwoSortedListsTest.java
  practice.MergeTwoSortedListsTest
 practice/RemoveDuplicatesSortedArrayTest.java
  practice.RemoveDuplicatesSortedArrayTest
+practice/RemoveElementTest.java
+ practice.RemoveElementTest
